@@ -1,3 +1,14 @@
+## Project Overview 
+In this project we used express to create a deployable app for users to record and delete 
+notes. Using the data packages provided, we were responsible for adding the necessary logic
+for the application to run. The finished solution was promoted to github and heroku for users to access the code and deployable application. This is a great tool to help you keep
+notes stored for later reference and organize your day. Hope you like it!
+
+Heroku app: https://glacial-taiga-07536.herokuapp.com/
+Github: https://github.com/dbolding12/myamazingnotebook.github.io
+
+![Note Taker](image.png)]
+
 # Unit 11 Express Homework: Note Taker
 
 ## Description
