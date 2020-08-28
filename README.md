@@ -5,6 +5,7 @@ for the application to run. The finished solution was promoted to github and her
 notes stored for later reference and organize your day. Hope you like it!
 
 Heroku app: https://glacial-taiga-07536.herokuapp.com/
+
 Github: https://github.com/dbolding12/myamazingnotebook.github.io
 
 ![Note Taker](image.png)]
